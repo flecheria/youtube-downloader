@@ -1,0 +1,10 @@
+ffmpeg-master-latest-win64-gpl-shared/
+/ffmpeg-master-latest-win64-gpl-shared
+
+node_modules/
+/node_modules
+
+/tracks
+tracks/
+
+*-player-script.js
